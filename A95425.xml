@@ -1,0 +1,237 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Two great fights in Ireland neer the city of Dublin between the Princes army commanded by the Marquesse of Ormond, and the Lord Inchiquin; and the Parliaments forces commanded by Colonell Jones. With the particulars therof, the manner of their engagement neer the gates of the city, and the number and names of divers captains, cornets and souldiers which were killed and taken prisoners, and Colonell Jones his proclamationt [sic] also, the mauner [sic] how 13000. are incamped against the city, the storming at Kildare, the battering down of the walls with great ordnance, the surrender thereof upon articles, and the officers and souldiers to march away with bag and baggage. Likewise, propositions from the Irish army to the Parliament of England, for the ancient lawes, religion, liberties and customes.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1649</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A95425</idno>
+            <idno type="STC">Wing T3447</idno>
+            <idno type="STC">Thomason E562_17</idno>
+            <idno type="STC">ESTC R206133</idno>
+            <idno type="EEBO-CITATION">99865312</idno>
+            <idno type="PROQUEST">99865312</idno>
+            <idno type="VID">165238</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A95425)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 165238)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 86:E562[17])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Two great fights in Ireland neer the city of Dublin between the Princes army commanded by the Marquesse of Ormond, and the Lord Inchiquin; and the Parliaments forces commanded by Colonell Jones. With the particulars therof, the manner of their engagement neer the gates of the city, and the number and names of divers captains, cornets and souldiers which were killed and taken prisoners, and Colonell Jones his proclamationt [sic] also, the mauner [sic] how 13000. are incamped against the city, the storming at Kildare, the battering down of the walls with great ordnance, the surrender thereof upon articles, and the officers and souldiers to march away with bag and baggage. Likewise, propositions from the Irish army to the Parliament of England, for the ancient lawes, religion, liberties and customes.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>for R. Williamson,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>1649.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "July 2d".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ireland --  History --  1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-02</date>
+            <label>Kayla Ondracek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-02</date>
+            <label>Kayla Ondracek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:165238:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 61 -->
+            <p>TWO GREAT FIGHTS IN IRELAND NEER THE CITY OF DVBLIN, BETWEEN. The Princes Army commanded by the Marqueſſe of <hi>Or<g ref="char:EOLhyphen"/>mond,</hi> and the Lord <hi>Inchiquin;</hi> and the Parliaments Forces commanded by Colonell JONES.</p>
+            <p>WITH The particulars therof, the manner of their engagement neer the Gates of the City, and the number and names of divers Captains, Cornets and Souldiers which were killed and taken priſoners, and Colonell JONES his Proclamationt</p>
+            <p>ALSO, The manner how 13000. are incamped againſt the City, the ſtorming at Kildare, the battering down of the Walls with great Ordnance, the ſurrender thereof upon Articles, and the Officers and Souldiers to march away with Bag and Baggage.</p>
+            <p>LIKEWISE, Propoſitions from the Iriſh Army to the Parliament of England, for the ancient Lawes, Religion, Liberties and Cuſtomes.</p>
+            <p>Imprinted at <hi>London,</hi> for <hi>R. Williamſon.</hi> 1649.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:165238:2"/>
+            <!-- PDF PAGE 62 -->
+            <pb n="1" facs="tcp:165238:2"/>
+            <!-- PDF PAGE 62 -->
+            <head>A GREAT FIGHT IN IRELAND Between the Princes Forces commanded by the Marqueſſe of <hi>Ormond,</hi> and the Lord <hi>Inchiquin;</hi> and the Parliaments Army commanded by Colonell <hi>Jones,</hi> and Colonell <hi>Munk.</hi>
+            </head>
+            <div type="letter">
+               <opener>
+                  <salute>Right Honoured,</salute>
+               </opener>
+               <p>THe Marq. of Ormond with <hi>13000</hi> Horſe and Foot is ſate down before the City of Dublin, with a reſolution to storm, if not ſuddenly ſurrendred upon ſummons; but renowned Col. Jones hath taken a reſolution to fight it out to the last man, and hath already made a gallant attempt and
+<pb n="2" facs="tcp:165238:3"/>
+                  <!-- PDF PAGE 63 -->inroad vpon his Out quartes with <hi>2000</hi> Horſe and Foot; and after a ſharp conflict Col. <hi>Jones</hi> made an honourable retreat in<g ref="char:EOLhyphen"/>to the City with the loſse of <hi>7</hi> or <hi>8,</hi> beſides ſome ſew wounded; but the Lord <hi>Inchiquins</hi> Brigade of horſe being gallantly moun<g ref="char:EOLhyphen"/>ted, took vpon them great reſolution, and embraced the purſuit within a quarter of a mile of the Gates, where we had a ſecond engagement, which continued very dubious for the ſpace of half an hour, till at last a conſiderable party of the Sea men came in to our aſſiſtance, who by their lining of the hedges, did ſo gall the Enemy, that they were forced to retreat, leaving above <hi>30</hi> men dead vpon the place; in which fight we took Captain <hi>Smith,</hi> Cornet <hi>Johnſon,</hi> and about ten more priſoners, with the loſse of five-men.</p>
+               <p>Since which time, they have made another attempt vpon our Out-guards, and vpon the neer approoch of their forlorn hope conſiſting of about <hi>60</hi> horſe, <hi>30</hi> of ours anſwered their charge, and ſhot Lieut. Col. <hi>Dungans</hi> horſe vnder him, took him priſo<g ref="char:EOLhyphen"/>ner, and Major <hi>Dungan</hi> his brother was mortally wounded, our men brought off <hi>7</hi> of their horſe, and (bleſsed be God) but one man wounded, none ſlain</p>
+               <p>They are incamped within a mile and a half of the City where they expect the coming vp of the Earl of <hi>Clanrickard,</hi> Lord <hi>Taff,</hi> and the Lord <hi>Dillon,</hi> with their forces, for a ſudden con<g ref="char:EOLhyphen"/>junction, and then to make a ſharp ſtorm.</p>
+               <p>Their Tents are pitcht on this ſide <hi>Fingles,</hi> their horſe and foot lye all in our ſight; Col. <hi>Jones</hi> is labouring hard to fortifie against them, hath given Orders for the pulling down all the Outhouſes that may advantage their deſign, and hath ſet forth Proclamation for all the Iriſh Papists, and other diſaffected Citizens, to depart the City within <hi>12</hi> hours after the publiſh<g ref="char:EOLhyphen"/>ing thereof; by whoſe unwearied pains and vigilancy, we are in ſome reaſonable poſſibility of the more ſafety thereby, &amp; have hard duty to attend the Line dayly, but great will, vigour and
+<pb n="3" facs="tcp:165238:3"/>
+                  <!-- PDF PAGE 63 -->readineſse is in all men to perform the ſervice: We have about <hi>7000</hi> foot (with the Inhabitants) fighting men, and about <hi>500</hi> horſe to face the enemy: Our proviſions conſume very fast, and every thing is exceſſive dear, having now neither fiſh nor fleſh to come to our Markets, the enemy being poſseſsed of that which ſhould relieve us; and are in a proſperous condiiion at preſent, and like to do what they pleaſe if our friends in England do not relieve us ſuddenly, and mo<g ref="char:EOLhyphen"/>eey to pay them and thoſe that are already here, and more proviſions for them all, for Wheat is here at <hi>5. li. 10. <abbr>s.</abbr>
+                  </hi> the quarter, Rye at <hi>4. li. 10. <abbr>s.</abbr>
+                  </hi> the quarter, little to ſell and little money to buy it, our Men of War are come from Bewmorris, and divers ſhips from Cheſter, and no men nor money, it is impoſſible (in mans judgment) for us to hold out till ayd comes from <hi>England.</hi>
+               </p>
+               <p>We have to st the good Town of <hi>Kildare,</hi> but it coſt the enemy ve<g ref="char:EOLhyphen"/>ry deer; for after three or four deſperate aſſaults made by them on the hreaches, made by their Canon, having lost many of their men, they ſent for a parley, and obſerving the undauted reſolution of Lie. Col. <hi>Huteſon</hi> and Cap. <hi>Dixon,</hi> who commanded the me<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> there, &amp; moſt of the men vnder them, although many of their men would not fight at all, &amp; are ſince gone to the enemy, that they gave our men quarter in two dayes to carry away what they had, where was great ſtore of corn and meal. Balleſoman is befieged, and it must be laſt becauſe we can<g ref="char:EOLhyphen"/>not come to relieve them.</p>
+               <p>We hear that <hi>Owen Oneal</hi> with his forces is joyned with them of <hi>Kilkenny</hi> against us, but we have no certainty thereof. We are in a very ſad condition, all our proviſions being almoſt all ſpent. yet I hope the Lord will defend this place, and that every one that puts his truſt in him ſhall be delivered, to whoſe bleſſed protection I commend you, and reſt ever,</p>
+               <closer>
+                  <signed>Your indeared, and moſt affectionate friend, SAMUELL COTTON.</signed>
+                  <dateline>
+                     <hi>Dublin</hi> 
+                     <date>
+                        <hi>24 June, 1649.</hi>
+                     </date>
+                  </dateline>
+               </closer>
+            </div>
+            <div type="letter">
+               <pb facs="tcp:165238:4"/>
+               <!-- PDF PAGE 64 -->
+               <opener>
+                  <salute>SIR,</salute>
+               </opener>
+               <p>I Am heartily glad to hear of the quiet condition you are in at London, and do aſſure you that we are ſo here at preſent, and hope by the bleſſing of God upon the endeavours of thoſe in authority, every man will in time ſit peace<g ref="char:EOLhyphen"/>ably under his own vine. There have vaniſhed of late out of theſe parts two ſorts of people, by whom we feared would much trouble befall the Nation, the one were ſuch as took part with thoſe called Levellers, and the other though more weak, and deſpiſed, were ſuch as were called Diggers, which to me ſeem to incroach not only upon Commons, but upon the very foundation of every mans juſt pro<g ref="char:EOLhyphen"/>priety, yet what need I ſpend time or paper on either of theſe whom (as before I have acquainted you) are ſcarce to be heard of with us, and ſeeing they were ſo ſoon ſudued by force its my hopes, that where ever they are, they will now be the eaſier overcome by Love and truly we hear of ſo much good in agitation by the houſe, that if they have ſtrength to bring forth, all intereſts will receive abundance of ſatisfaction, and the Nation will undoubtedly be ſetled in ſo happy a condition that they will be a terrour to all their enemies.</p>
+               <p>The Souldiers that come this way for Ireland are moſt of them very Civil, and deſerve all the encouragement we can beſtow upon them and on the other ſide, ſome [eſpecially of foot] carry themſelves as though they were in Ireland al<g ref="char:EOLhyphen"/>ready.</p>
+               <p>The laſt certain news we had from Dublin was that no Enemy was then, before it but every day expected yet ſaid the meſſenger, col. Jones was in a good condition and able to make ſtrong defence.</p>
+               <closer>
+                  <dateline>Briſtoll <date>22 June 1649,</date>
+                  </dateline>
+               </closer>
+            </div>
+            <div type="resolutions">
+               <head>The Reſolutions at a Councel of War at <hi>Whitehall,</hi> for an Eſta<g ref="char:EOLhyphen"/>bliſhment of the Army.</head>
+               <div type="part">
+                  <head>UPon conſideration of the ſeveral allowances for billet money, and additional pay, requiſite to be made to the ſeveral Regiments of Horſe and Foot, and to all other Foot within the preſent Eſtabliſhment. In purſuance of the lat<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Act of Parliament for that purpoſe, reſolved as followeth;</head>
+                  <p>That for Sir <hi>Hardreſs Waller,</hi> Sir <hi>William Constables,</hi> Col. <hi>Ingoldesbie<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </hi> Col. <hi>Barksteads,</hi> Col. <hi>Coxes,</hi> Col. <hi>Brights,</hi> and Colonel <hi>Fairfaxes</hi> Regi<g ref="char:EOLhyphen"/>ments being diſpoſed into Garriſons, or Quarters for the preſent, but to be drawn out upon occaſion for the field, there be allowed for billet money and additional pay, 3, <abbr>d.</abbr> 
+                     <hi>per diem</hi> to each private Souldier, and non Commiſſioned Officers, of which allowance, 2. <abbr>d.</abbr> 
+                     <hi>per diem</hi> to be allowed from the ſeventh of May, 1649, and the other 1. <abbr>d.</abbr> 
+                     <hi>per diem</hi> from the fourth of June, inſtant.</p>
+                  <pb facs="tcp:165238:4"/>
+                  <!-- PDF PAGE 64 -->
+                  <p>And when they or any of them ſhall be called out upon field ſervice, out of the Garriſon, and beyond the reſpective Counties, where they are or ſhall be ſetled, then to have 1. <abbr>d.</abbr> per diem more for increaſe of pay; allowed to each ſoul<g ref="char:EOLhyphen"/>dier, and Non-Commiſsioned Officer reſpectively, during ſuch their imployment.</p>
+                  <p>That for all other Foot ſetled in Garriſon, there be allowed 1. <abbr>d.</abbr> per diem for billet money, and 1. <abbr>d.</abbr> per diem for additional pay, and of theſe the billet money to commence from the 7. of May, and the additional pay from the 4. of June in<g ref="char:EOLhyphen"/>ſtant.</p>
+                  <p>That for the Lo<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>d Generals, and Colonel <hi>Prides</hi> Regiments of Foot (while they guard the Parliament and City) and to any other Regiment that ſhall come to relieve, or aſsiſt them, (while ſuch Regiments ſhall be upon that duty) there be allowed for billet money, and additional pay to each private ſouldier, and Non-Commiſsion Officers 4. <abbr>d.</abbr> 
+                     <hi>per diem,</hi> and this allowance to the Generals and Co<g ref="char:EOLhyphen"/>lonel Prides Regiments, to be made from the 7th. of May, 1649.</p>
+                  <p>That the ſame allowances (as to the Generals, and Colonel <hi>Prides</hi> Regiments) be made to the ſeveral Regiments of Foot that go for <hi>Ireland,</hi> as upon the now eſtabliſhment, untill they ſhall be tranſported into <hi>Ireland,</hi> and then the half thereof to ceaſe (as to billet money) and the other half as additional pay to be con<g ref="char:EOLhyphen"/>tinued, during the time limited in the ſaid Act of Parliament: And of this allow<g ref="char:EOLhyphen"/>ance to the Lieut. Gen. Regiment of Foot, the whole to be made from the 7. of May, 1646. (in regard it continued that moneth in <hi>London</hi>) but to other Re<g ref="char:EOLhyphen"/>giments for <hi>Ireland,</hi> 2. <abbr>d.</abbr> 
+                     <hi>per diem,</hi> to be allowed from the 7. of May; and the other 2. <abbr>d.</abbr> 
+                     <hi>per diem</hi> from the 4. of <hi>Iune.</hi>
+                  </p>
+               </div>
+               <div type="part">
+                  <head>Concerning allowances to the Horſe and Drogoons; reſolved, as follow<g ref="char:EOLhyphen"/>eth;</head>
+                  <p>That for ſuch Regiments and Troops as ſtay in <hi>England;</hi> the full allowances by the ſaid Act be made accordingly, and alſo the ſame to thoſe that engage for <hi>Ireland,</hi> untill they ſhall be tranſported, and then the one half thereof (as for billet money) to ceaſe, and the other half as additional pay to be continued, du<g ref="char:EOLhyphen"/>ring the time limited by the Parliament in the ſaid Act: And of this allow<g ref="char:EOLhyphen"/>ance to the Horſe and Dragoons, The whole to be made to Colonel <hi>Saunders,</hi> and Colonel <hi>Whaleys</hi> Regiments, from the 7. of May, 1649. (in regard they continued then upon the guard of the Paeliament) but to the reſt of the Regiments 3. <abbr>d.</abbr> 
+                     <hi>per diem</hi> from the 7th of May, and the other 3, <abbr>d.</abbr> from the fourth of June,</p>
+                  <p>That theſe Reſolutions (being approved by the Lord General) be certified by the Secretary to the Honourable Committee of the Army, as from his Excellency and his Councel of War.</p>
+               </div>
+               <closer>
+                  <signed>
+                     <hi>By appointment of his Excellency, and the Councel of War, cer<g ref="char:EOLhyphen"/>tified and ſigned by me</hi> R. H.</signed>
+               </closer>
+            </div>
+            <pb facs="tcp:165238:5"/>
+            <!-- PDF PAGE 65 -->
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:165238:5"/>
+            <!-- PDF PAGE 65 -->
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <div type="proposition">
+               <pb n="6" facs="tcp:165238:6"/>
+               <!-- PDF PAGE 66 -->
+               <head>The Propoſitions of Generall <hi>Owen Oneal,</hi> the Lords, Gentry, and Commons of the Confederate Catholiques in <hi>Ulſter.</hi>
+               </head>
+               <opener>
+                  <salute>To the moſt honorable and potent the Parliament of England.</salute>
+               </opener>
+               <p>
+                  <hi>IMprimis,</hi> That all Laws, Statutes, Penalties, made, paſt, or con<g ref="char:EOLhyphen"/>cluded againſt the Roman Catholiques, its Miniſters or pro<g ref="char:EOLhyphen"/>feſſors, their liberties and exerciſes of the ſaid Religion, ſince the 21 year of <hi>H.</hi> 8. to be neclaimed and perpetually to be taken off, and to extend to that paray and their ſucceſſors for ever.</p>
+               <p n="2">2 That the ſaid Gen. <hi>Oneal</hi> deſires that an Act of Oblivion be paſſed to extend to all and every of his party, for all things done ſince the beginning of the year 1641. 3 They deſire that General <hi>Oneal</hi> be provided for a competent command in the army, befit<g ref="char:EOLhyphen"/>ting his place worth or quality. 4 That on both ſides, all jealou<g ref="char:EOLhyphen"/>ſies, hate and averſion be laid aſide, unity, love and amity be re<g ref="char:EOLhyphen"/>newed and proclaimed between both parties. 5 That the Army belonging to Generall <hi>Oneal</hi> and his party, be provided for in all points as the reſt of the Army ſhall be.</p>
+               <closer>
+                  <signed>Subſcribed, OWEN ONEAL.</signed>
+               </closer>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
